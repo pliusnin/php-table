@@ -1,6 +1,6 @@
 {
   "name": "pliusnin/php-table",
-  "description": "description",
+  "description": "Help you to render array of data as a paginated table",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
@@ -10,6 +10,7 @@
     }
   ],
   "require": {
+    "php": ">=7.4",
     "twig/twig": "^3.0.0"
   },
   "require-dev": {
